@@ -1,6 +1,6 @@
 --[[
 
-local lib = loadstring(game:HttpGet(('https://pastebin.com/raw/tefvAc3c'),true))()
+local lib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/Patch-Shack/Alteral-Lib/master/launch-lib'),true))()
 lib.gui("Infinite Yield", "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source")
 
 ]]--
